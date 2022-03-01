@@ -1,0 +1,10 @@
+C:\Users\Arthur\Desktop\Estudos DotNET\UC12\ER-2\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.deps.json
+C:\Users\Arthur\Desktop\Estudos DotNET\UC12\ER-2\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.dll
+C:\Users\Arthur\Desktop\Estudos DotNET\UC12\ER-2\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.pdb
+C:\Users\Arthur\Desktop\Estudos DotNET\UC12\ER-2\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\Estudos DotNET\UC12\ER-2\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\Estudos DotNET\UC12\ER-2\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\Estudos DotNET\UC12\ER-2\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\Estudos DotNET\UC12\ER-2\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Estudos DotNET\UC12\ER-2\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.dll
+C:\Users\Arthur\Desktop\Estudos DotNET\UC12\ER-2\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.pdb
